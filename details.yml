@@ -13,7 +13,7 @@ email: jonathan.littel@gmail.com
 intro: ""
 
 skills:
-- Aesthetics, Ethics, Metaphysics, Nihilism
+- 
 
 experience:
 - years: 2014-present
@@ -30,14 +30,10 @@ experience:
   city: Madison, WI
 
 education:
-- year: 1867
-  subject: Philology
-  institute: Leipzig Universität
-  city: Leipzig
-- year: 1864
-  subject: Abitur
-  institute: Schulpforta
-  city: Naumburg
+- year: 2007
+  subject: Bachelor of Economics
+  institute: University of Wisconsin - Madison
+
 
 # Settings
 mainfont: Hoefler Text
